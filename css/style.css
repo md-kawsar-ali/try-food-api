@@ -103,7 +103,7 @@ header .navbar-light .navbar-nav .nav-link,
     width: 24px;
 }
 
-.search-section.alert {
+.search-section .alert {
     color: #ffffff;
     background: #da1717;
     font-weight: 500;
